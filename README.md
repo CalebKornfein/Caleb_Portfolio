@@ -1,10 +1,9 @@
 # Caleb Kornfein
-<div align="center">
 
-Hey there! I am a rising senior at Duke studying math and computer science. I am open to full-time data science roles for after my graduation. I am especially      passionate about the math behind machine learning algorithms and ethical AI. Aside from crunching numbers and programming, I am a huge basketball fan and love learning languages.
-</div>
+Hey there! I am a rising senior at Duke studying math and computer science. I am open to full-time data science roles for after my graduation. I am especially   passionate about the math behind machine learning algorithms and ethical AI. Aside from crunching numbers and programming, I am a huge basketball fan and love learning languages.
 
 If you are interested in talking or have any questions, feel free to reach out to me through my:
+
 *  Email: caleb.kornfein@duke.edu
 *  LinkedIn: [Caleb Kornfein](https://www.linkedin.com/in/caleb-kornfein-36460613a/)
 *  Cell: 707-329-5415
