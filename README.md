@@ -8,7 +8,7 @@ If you are interested in talking or have any questions, feel free to reach out t
 *  LinkedIn: [Caleb Kornfein](https://www.linkedin.com/in/caleb-kornfein-36460613a/)
 *  Cell: 707-329-5415
 
-### Project 1: [2021 IEEE GRSS Data Science Competition](https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-dse/)  
+## Project 1: [2021 IEEE GRSS Data Science Competition](https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-dse/)  
 ![](media/IEEE.png)
 
 **The Task:** Develop models that take advantage of various channels of satellite data to spot remote areas around the globe where humans live without electricity
@@ -21,13 +21,28 @@ If you are interested in talking or have any questions, feel free to reach out t
 
 **Favorite Memory:** A flurry of zoom calls on the night of our submissions -- we were simultaneously nervous for the results, proud of what we had accomplished, and connected as a team
 
-### Project 2: Flukehub
+## Project 2: Flukehub
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtoEv-HFCBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-### Project 3: Democratic Debates Topic Analysis
+**The Project:** Three other Duke undergraduates and myself built an alternative version of the Dukehub system -- used by all Duke students for course enrollment and important academic information. I created the designs database schematics, handled filters and querying for courses using Django and PostgreSQL, and added frontend elements to various pages.
+
+**What I Learned:** Database schema design, Django, SQL, PostgreSQL, elements of frontend development with CSS/HTML/Javascript
+
+## Project 3: Ecosystem Acoustics
+![](media/UMAP_Landscapes.png)
+
+My home in Sonoma county, California, has been ravaged by wildfires in recent years. Working with Sonoma State Professor Matthew Clark as part of the [Soundscapes to Landscapes](https://soundscapes2landscapes.org/) project, I visualized spectrogram data. Spectrograms are visual representations of frequency patterns over time, in this case audio signals from the hundreds of recorders Professor Clark had placed around Sonoma County. The spectrograms were embedded into a higher dimensional space using a pretrained CNN, which I then visualized in 3D using UMAP in order to see how the fires had affected the sound ecosystems of Sonoma County.
+
+**What I learned:** Dimension reduction techniques such as UMAP, Seaborn,  CNN architectures, more about landscapes in my home county
+
+## Project 4: Democratic Debates Topic Analysis
 ![](media/Intertopic_Distance.png)
 
-### Project 4: Ecosystem Acoustics
-![](media/UMAP_Landscapes.png)
+**Description:** As part of a Bayesian Statistics project, my partner Meredith and I gathered text from all the 2020 Democratic Debates and used LDA to identify the topics discussed.
+
+**What I learned:** LDA, NLP techniques such as tokenization, stemming, etc.
+
+**Interesting Takeaways:** Of the 13 topics identified, only topic 7 discussed US foreign policy. The major democratic candidates -- Elizabeth Warren, Joe Biden, and Bernie Sanders -- all spent around 1-2% of their time discussing this topic. This speaks to the American-centric nature of the discourse occuring at the Presidential debates. Tulsi Gabbard, Jay Inslee, and Beto O'Rourkey in contrast spent the most time on the issue, with Beto leading the pack at 28% of his time.
+
