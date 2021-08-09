@@ -4,7 +4,7 @@ I love Nikki!
 
 ### Project 1: 2021 IEEE GRSS Data Science Competition
 ![](media/GRSS_Methodology.pdf)
-
+![](media/IEEE.png)
 ### Project 2: Flukehub
 ![](media/Flukehub.mov)
 
