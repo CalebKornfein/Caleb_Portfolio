@@ -6,13 +6,12 @@ I love Nikki!
 ![](media/GRSS_Methodology.pdf)
 
 ### Project 2: Flukehub
+![](media/Flukehub.mov)
 
-
+### Test
 
 https://user-images.githubusercontent.com/54647075/128640368-347d98f7-6bc8-488e-b908-36116f7d8767.mov
 
-
-![](media/Flukehub_Video)
 
 ### Project 3: Democratic Debates Topic Analysis
 ![](media/Intertopic_Distance.png)
