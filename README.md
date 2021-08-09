@@ -1,21 +1,13 @@
-## Caleb Kornfein
-
-I love Nikki!
+## I am a rising senior at Duke studying math and computer science expecting to graduate in Spring 2022. Open to full-time . Besides working  
 
 ### Project 1: 2021 IEEE GRSS Data Science Competition
+![](media/IEEE.png)
+
+### Project 2: Flukehub
 
 <video controls="controls" width="800" height="600" name="Video Name">
   <source src="https://github.com/CalebKornfein/Caleb_Portfolio/tree/main/media/Flukehub.mov">
 </video>
-
-![](media/IEEE.png)
-### Project 2: Flukehub
-![](media/Flukehub.mov)
-
-### Test
-
-https://user-images.githubusercontent.com/54647075/128640368-347d98f7-6bc8-488e-b908-36116f7d8767.mov
-
 
 ### Project 3: Democratic Debates Topic Analysis
 ![](media/Intertopic_Distance.png)
