@@ -33,16 +33,16 @@ If you are interested in talking or have any questions, feel free to reach out t
 ## Project 3: Ecosystem Acoustics
 ![](media/UMAP_Landscapes.png)
 
-My home in Sonoma county, California, has been ravaged by wildfires in recent years. Working with Sonoma State Professor Matthew Clark as part of the [Soundscapes to Landscapes](https://soundscapes2landscapes.org/) project, I visualized spectrogram data. Spectrograms are visual representations of frequency patterns over time, in this case audio signals from the hundreds of recorders Professor Clark had placed around Sonoma County. The spectrograms were embedded into a higher dimensional space using a pretrained CNN, which I then visualized in 3D using UMAP in order to see how the fires had affected the sound ecosystems of Sonoma County.
+**The Project:** My home in Sonoma county, California, has been ravaged by wildfires in recent years. Working with Sonoma State Professor Matthew Clark as part of the [Soundscapes to Landscapes](https://soundscapes2landscapes.org/) project, I visualized spectrogram data. Spectrograms are visual representations of frequency patterns over time, in this case audio signals from the hundreds of recorders Professor Clark had placed around Sonoma County. The spectrograms were embedded into a higher dimensional space using a pretrained CNN, which I then visualized in 3D using UMAP in order to see how the fires had affected the sound ecosystems of Sonoma County.
 
 **What I learned:** Dimension reduction techniques such as UMAP, Seaborn,  CNN architectures, more about landscapes in my home county
 
 ## Project 4: Democratic Debates Topic Analysis
 ![](media/Intertopic_Distance.png)
 
-**Description:** As part of a Bayesian Statistics project, my partner Meredith and I gathered text from all the 2020 Democratic Debates and used LDA to identify the topics discussed.
+**Description:** As part of a Bayesian Statistics project, my partner Meredith and I gathered text from all the 2020 Democratic Debates and used Latent Dirichlet Analysis to identify the topics discussed.
 
-**What I learned:** LDA, NLP techniques such as tokenization, stemming, etc.
+**What I learned:** LDA, NLP techniques such as tokenization and stemming
 
 **Interesting Takeaways:** Of the 13 topics identified, only topic 7 discussed US foreign policy. The major democratic candidates -- Elizabeth Warren, Joe Biden, and Bernie Sanders -- all spent around 1-2% of their time discussing this topic. This speaks to the American-centric nature of the discourse occuring at the Presidential debates. Tulsi Gabbard, Jay Inslee, and Beto O'Rourkey in contrast spent the most time on the issue, with Beto leading the pack at 28% of his time.
 
