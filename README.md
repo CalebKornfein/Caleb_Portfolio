@@ -31,10 +31,6 @@ If you are interested in talking or have any questions, feel free to reach out t
 **What I Learned:** Database schema design, Django, SQL, PostgreSQL
 
 ## Project 3: Ecosystem Acoustics
-<p align="center">
-  <img src="https://github.com/CalebKornfein/Caleb_Portfolio/blob/main/media/UMAP_Landscapes.png" width="470" height="389">
-</p>
-
 ![](media/UMAP_Landscapes.png)
 
 **The Project:** My home in Sonoma county, California, has been ravaged by wildfires in recent years. Working with Sonoma State Professor Matthew Clark as part of the [Soundscapes to Landscapes](https://soundscapes2landscapes.org/) project, I visualized spectrogram data. Spectrograms are visual representations of frequency patterns over time, in this case audio signals from the hundreds of recorders Professor Clark had placed around Sonoma County. The spectrograms were embedded into a higher dimensional space using a pretrained CNN, which I then visualized in 3D using UMAP in order to see how the fires had affected the sound ecosystems of Sonoma county.
