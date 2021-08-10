@@ -11,7 +11,7 @@ If you are interested in talking or have any questions, feel free to reach out t
 ## Project 1: [2021 IEEE GRSS Data Science Competition](https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-dse/)  
 ![](media/IEEE.png)
 
-<embed src="https://github.com/CalebKornfein/Caleb_Portfolio/blob/main/media/GRSS.pdf" width="600px" height="500px" />
+<embed src="https://github.com/CalebKornfein/Caleb_Portfolio/blob/main/media/GRSS_Methodology.pdf" width="600px" height="500px" />
 
 **The Task:** Develop models that take advantage of various channels of satellite data to spot remote areas around the globe where humans live without electricity
 
