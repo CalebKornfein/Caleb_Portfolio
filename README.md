@@ -17,7 +17,7 @@ If you are interested in talking or have any questions, feel free to reach out t
 
 **The result:** Together, we placed top 25 in the international challenge, in which we competed against research labs and PhD student teams from around the globe
 
-**What I Learned:** Pytorch, the mathematics underpinning CNN's and Neural Networks, bash scripting
+**What I Learned:** Pytorch, the mathematics underpinning CNNs and neural networks, bash scripting
 
 **Favorite Memory:** A flurry of zoom calls on the night of our submissions -- we were simultaneously nervous for the results, proud of what we had accomplished, and connected as a team
 
@@ -26,23 +26,25 @@ If you are interested in talking or have any questions, feel free to reach out t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtoEv-HFCBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-**The Project:** Three other Duke undergraduates and myself built an alternative version of the Dukehub system -- used by all Duke students for course enrollment and important academic information. I created the designs database schematics, handled filters and querying for courses using Django and PostgreSQL, and added frontend elements to various pages.
+**The Project:** Three other Duke undergraduates and myself built an alternative version of the Dukehub system -- used by all Duke students for course enrollment and important academic information. I created the designs database schematics, handled filters and querying for courses using Django and PostgreSQL, and added frontend elements such as the heading bar.
 
-**What I Learned:** Database schema design, Django, SQL, PostgreSQL, elements of frontend development with CSS/HTML/Javascript
+**What I Learned:** Database schema design, Django, SQL, PostgreSQL
 
 ## Project 3: Ecosystem Acoustics
-![](media/UMAP_Landscapes.png)
+<p align="center">
+  <img width="470" height="389" src="https://github.com/CalebKornfein/Caleb_Portfolio/tree/main/media/UMAP_Landscapes.png">
+</p>
 
-**The Project:** My home in Sonoma county, California, has been ravaged by wildfires in recent years. Working with Sonoma State Professor Matthew Clark as part of the [Soundscapes to Landscapes](https://soundscapes2landscapes.org/) project, I visualized spectrogram data. Spectrograms are visual representations of frequency patterns over time, in this case audio signals from the hundreds of recorders Professor Clark had placed around Sonoma County. The spectrograms were embedded into a higher dimensional space using a pretrained CNN, which I then visualized in 3D using UMAP in order to see how the fires had affected the sound ecosystems of Sonoma County.
+**The Project:** My home in Sonoma county, California, has been ravaged by wildfires in recent years. Working with Sonoma State Professor Matthew Clark as part of the [Soundscapes to Landscapes](https://soundscapes2landscapes.org/) project, I visualized spectrogram data. Spectrograms are visual representations of frequency patterns over time, in this case audio signals from the hundreds of recorders Professor Clark had placed around Sonoma County. The spectrograms were embedded into a higher dimensional space using a pretrained CNN, which I then visualized in 3D using UMAP in order to see how the fires had affected the sound ecosystems of Sonoma county.
 
-**What I learned:** Dimension reduction techniques such as UMAP, Seaborn,  CNN architectures, more about landscapes in my home county
+**What I learned:** Dimension reduction techniques such as UMAP, Seaborn, CNN architectures, more about my home county
 
 ## Project 4: Democratic Debates Topic Analysis
 ![](media/Intertopic_Distance.png)
 
-**Description:** As part of a Bayesian Statistics project, my partner Meredith and I gathered text from all the 2020 Democratic Debates and used Latent Dirichlet Analysis to identify the topics discussed.
+**The Project:** As part of a Bayesian Statistics final project, my partner Meredith and I analyzed the transcripts of the 2020 Democratic Debates by using Latent Dirichlet Analysis to identify the topics discussed.
 
-**What I learned:** LDA, NLP techniques such as tokenization and stemming
+**What I learned:** Latent Dirichlet Analysis, NLP techniques such as tokenization and stemming
 
 **Interesting Takeaways:** Of the 13 topics identified, only topic 7 discussed US foreign policy. The major democratic candidates -- Elizabeth Warren, Joe Biden, and Bernie Sanders -- all spent around 1-2% of their time discussing this topic. This speaks to the American-centric nature of the discourse occuring at the Presidential debates. Tulsi Gabbard, Jay Inslee, and Beto O'Rourkey in contrast spent the most time on the issue, with Beto leading the pack at 28% of his time.
 
