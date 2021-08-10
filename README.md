@@ -11,6 +11,8 @@ If you are interested in talking or have any questions, feel free to reach out t
 ## Project 1: [2021 IEEE GRSS Data Science Competition](https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-dse/)  
 ![](media/IEEE.png)
 
+<embed src="https://github.com/CalebKornfein/Caleb_Portfolio/blob/main/media/GRSS.pdf" width="600px" height="500px" />
+
 **The Task:** Develop models that take advantage of various channels of satellite data to spot remote areas around the globe where humans live without electricity
 
 **My Work:** I built and trained various FCN (Fully-Convolutional Network) architectures using Pytorch on a Duke compute cluster to classify 50m x 50m tiles as containing a human settlement without electricity or not. I also acted as the project leader for our team of four Duke undergraduates
