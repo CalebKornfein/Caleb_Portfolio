@@ -4,9 +4,9 @@ Hey there! I am a rising senior at Duke studying math and computer science. I am
 
 If you are interested in talking or have any questions, feel free to reach out to me through my:
 
-*  Email: caleb.kornfein@duke.edu
-*  LinkedIn: [Caleb Kornfein](https://www.linkedin.com/in/caleb-kornfein-36460613a/)
-*  Cell: 707-329-5415
+*  **Email:** caleb.kornfein@duke.edu
+*  **LinkedIn:** [Caleb Kornfein](https://www.linkedin.com/in/caleb-kornfein-36460613a/)
+*  **Cell:** 707-329-5415
 
 ## Project 1: [2021 IEEE GRSS Data Science Competition](https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-dse/)  
 ![](media/IEEE.png)
