@@ -1,6 +1,6 @@
 # Caleb Kornfein
 
-I am a rising senior at Duke majoring in mathematics and computer science with a minor in statistics. I am open to full-time data science roles for after my graduation. I am especially passionate about the math behind machine learning algorithms and ethical AI. Aside from crunching numbers and programming, I am a huge basketball fan and love learning languages.
+I am a rising senior at Duke studying math and computer science with a minor in statistics. After graduating, I hope to work as a full-time data scientist. I am especially passionate about the math behind machine learning algorithms and ethical AI. Aside from crunching numbers and programming, I am a huge basketball fan and love learning languages.
 
 If you are interested in talking or have any questions, feel free to reach out to me through my:
 
