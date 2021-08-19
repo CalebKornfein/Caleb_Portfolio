@@ -46,7 +46,7 @@ If you are interested in talking or have any questions, feel free to reach out t
 
 **The Project:** As part of a Bayesian Statistics final project, my partner and I decided to use NLP to analyze the transcripts of the 2020 Democratic Debates
 
-**My Work** I collected the texts from each of the 2020 Democratic Debates and cleaned the text using NLP techniques such as removal of stop words, tokenization, and stemming. Then, I trained the Latent Dirichlat Analysis model on the corpus of text to find the topics most frequently discussed at the debates.
+**My Work** I collected the texts from each of the 2020 Democratic Debates and cleaned the text using NLP techniques such as removal of stop words, tokenization, and stemming. Then, I trained a Latent Dirichlat Analysis model on the corpus of text to find the topics most frequently discussed at the debates.
 
 **What I learned:** Latent Dirichlet Analysis, NLP best practices
 
