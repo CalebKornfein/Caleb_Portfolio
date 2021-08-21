@@ -13,11 +13,11 @@ If you are interested in talking or have any questions, feel free to reach out t
 
 **The Task:** Develop deep learning models that take advantage of various channels of satellite data to spot remote areas around the globe where humans live without electricity.
 
-**My Work:** I acted as project leader for a team of four undergraduate students. I also built and trained various Fully-Convolutional Network architectures using Pytorch on a Duke compute cluster to classify 50m x 50m tiles as containing a human settlement without electricity or not.
+**My Work:** I acted as project leader for a team of four undergraduate students. I also built and trained various Fully-Convolutional Network architectures using PyTorch on a Duke compute cluster to classify 50m x 50m tiles as containing a human settlement without electricity or not.
 
 **The result:** Together, we placed top 25 in the international challenge, in which we competed against research labs and PhD student teams from around the globe.
 
-**What I Learned:** Pytorch, convolutional neural networks, bash scripting
+**What I Learned:** PyTorch, convolutional neural networks, bash scripting
 
 **Favorite Memory:** A flurry of zoom calls on the night of our submissions -- we were simultaneously nervous for the results, proud of what we had accomplished, and connected as a team.
 
