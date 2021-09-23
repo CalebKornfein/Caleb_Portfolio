@@ -26,7 +26,7 @@ If you are interested in talking or have any questions, feel free to reach out t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtoEv-HFCBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-**The Project:** Worked with three other Duke undergraduates to build our idea of what a improved Dukehub system might look like. Dukehub is a website used by all Duke students for course enrollment and important academic information.
+**The Project:** Worked with three other Duke undergraduates to build our idea of what an improved Dukehub system might look like. Dukehub is a website used by all Duke students for course enrollment and important academic information.
 
 **My Work:** I created the designs database schematics, handled filters and querying for courses using Django and PostgreSQL, and added frontend elements such as the heading bar.
 
